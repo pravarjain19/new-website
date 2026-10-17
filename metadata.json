@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER VAUCLUSE — Interior Architecture & Spatial Design",
+  "description": "Bespoke spatial design, architectural curation, and monograph archive by Atelier Vaucluse in Paris, New York, and Zurich.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
